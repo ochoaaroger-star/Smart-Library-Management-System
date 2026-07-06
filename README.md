@@ -10,7 +10,6 @@ Project Modules
 - User Accounts
 
 - Member Management
-- Book Catalog
 - Borrowing
 - Returning
 
